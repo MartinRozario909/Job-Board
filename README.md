@@ -6,4 +6,8 @@ Job Board is website where users can apply to Jobs. We can add new, edit or dele
 
 - [Laravel](https://laravel.com/)
 - [Tailwind CSS](https://tailwindcss.com/)
+- [Apline.js](https://alpinejs.dev/)
 - MySQL as database
+
+This the dasboard of the Review Site.
+<img src="public/screenshots/Screen1.png" />
