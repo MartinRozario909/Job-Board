@@ -13,6 +13,7 @@ This the dasboard of the Job Board.
 <img src="public\srceenshot\screen1.png" />
 
 This shows the other job listings.
+<img src="public\srceenshot\screen2.png" />
 <img src="public\screenshot\screen2.png" />
 
 We can filter the job listing by using the options presented.
